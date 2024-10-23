@@ -30,8 +30,8 @@ Ensure you have **Node.js** installed on your machine. You can download it from 
 
 ### The API will be accessible at http://localhost:5000.
 
-### run command
--npm run dev
+### run command:
+npm run dev
 
 
 
