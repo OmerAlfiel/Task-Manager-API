@@ -1,6 +1,6 @@
 # Task Manager API
 
-This project is a **Task Manager API** built with **Node.js** and **Express**. It provides a backend service for managing users and their tasks. The API is organized into several directories, each serving a specific purpose:
+This project is a **Task Manager API** built with **Node.js** and **Express**. It provides a backend service for managing users and their tasks. The API is organized into several directories, each serving a specific purpose
 
 ## Project Structure
 
